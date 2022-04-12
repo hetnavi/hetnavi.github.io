@@ -20,10 +20,10 @@ layout: default
       {% capture read_time %}
           {{ content | number_of_words | divided_by: 180 }}
       {% endcapture %}
-      {% if read_time != '0' %}
+      {% if read_time > 1 %}
         <br><span>{{ read_time }} minutes read</span>
       {% else %}
-        <br><span>1 minute read</span>
+        <br><span>a minute read</span>
       {% endif %}
     {% endif %}
   </div>
