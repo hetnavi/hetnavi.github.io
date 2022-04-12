@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "About"
 permalink: /about/
 ---
+
+# About
 
 I have always preferred a simple, fuss-free, minimalist approach on things and this is how I start my research to a place for my thoughts and hopefully pass on my learnings to you.
 

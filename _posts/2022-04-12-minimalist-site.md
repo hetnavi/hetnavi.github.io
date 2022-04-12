@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Simple, fuss-free, minimalist site"
 excerpt_separator: <!--more-->
 ---
+
+# Simple, fuss-free, minimalist site
 
 I have always preferred a simple, fuss-free, minimalist approach on things and this is how I start my research to a place for my thoughts and hopefully pass on my learnings to you.<!--more-->
 
