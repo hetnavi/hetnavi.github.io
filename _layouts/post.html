@@ -15,17 +15,6 @@ layout: default
       <br>
       <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
-
-    {% if content %}
-      {% capture read_time %}
-          {{ content | number_of_words | divided_by: 180 }}
-      {% endcapture %}
-      {% if read_time > 1 %}
-        <br><span>{{ read_time }} minutes read</span>
-      {% else %}
-        <br><span>a minute read</span>
-      {% endif %}
-    {% endif %}
   </div>
 
   <h1 class="post-title">{{ page.title }}</h1>
