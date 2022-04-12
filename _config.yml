@@ -24,16 +24,10 @@ sass:
 
 # Gems
 plugins:
-  - jekyll-titles-from-headings
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
   # - jemoji #Uncomment this to allow emoji in your post
-
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: false
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
