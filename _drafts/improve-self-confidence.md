@@ -1,4 +1,8 @@
-# 7 Questions to ask yourself to improve self-confidence
+---
+layout: post
+title: "7 Questions to ask yourself to improve self-confidence"
+excerpt_separator: <!--more-->
+---
 
 1. What do you like the most about yourself?
 2. What do you think makes you unique/special?
