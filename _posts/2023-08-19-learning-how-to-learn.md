@@ -4,11 +4,13 @@ title: "Learning how to learn"
 excerpt_separator: <!--more-->
 ---
 
+Key takeaways from "Learning how to learn" by Barbara Oakley.<!--more-->
+
 ## Cognitive Offloading
 
 * write down all the thoughts
-* to spend your brain capacity to process what to do
-* not trying to remember what to do
+* to spend your brain capacity to *process* what to do
+* not trying to *remember* what to do
 
 ## Paced-Spacing
 
