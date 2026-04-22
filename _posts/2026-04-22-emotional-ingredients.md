@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 * by carefully analyzing each ingredients, one can:
     * power up strengths
     * improves on weaknesses
-* _soft_ skills can be more important than _hard_ skills
+* _soft_ skills can be more important than _hard_ skills<!--more-->
 
 ## Twelves Ingredients
 
